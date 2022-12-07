@@ -1,7 +1,7 @@
 ### <div align="center">I'm Jeremias, a Java Backend Developer 👨‍💻 looking for a remote job 🚀</div>  
   
 
-- 🔭 I’m currently working on [Alkemy-Wallet](https://github.com/agustin-kiryk/Skill-Up-Java-Group4)  
+- 🔭 I’m currently working on [Paddle-Champion](https://github.com/JeremiasOviedo/PaddleChampion)  
   
 
 - 🌱 I’m currently learning testing with Junit and Mockito  
