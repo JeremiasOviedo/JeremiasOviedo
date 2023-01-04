@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Paddle-Champion](https://github.com/JeremiasOviedo/PaddleChampion)  
   
 
-- 🌱 I’m currently learning testing with Junit and Mockito  
+- 🌱 I’m currently learning docker and kubernetes
   
 
 -  💼 You can view my linkedin [here](https://www.linkedin.com/in/jeremiasoviedo/)   
