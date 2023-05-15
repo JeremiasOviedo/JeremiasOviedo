@@ -1,7 +1,5 @@
 ### <div align="center">I'm Jeremias, a Java Backend Developer 👨‍💻 looking for a remote job 🚀</div>  
   
-
-- 🔭 I’m currently working on [Paddle-Champion](https://github.com/JeremiasOviedo/PaddleChampion)  
   
 
 - 🌱 I’m currently learning docker and kubernetes
