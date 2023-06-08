@@ -2,7 +2,7 @@
   
   
 
-- 🌱 I’m currently learning docker and kubernetes
+- 🌱 I’m currently learning docker
   
 
 -  💼 You can view my linkedin [here](https://www.linkedin.com/in/jeremiasoviedo/)   
