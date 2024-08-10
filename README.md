@@ -2,7 +2,7 @@
 ### <div align="center">I'm Jeremias (friends call me Chere), a full-stack developer 🚀</div>  
   
 
-- 🔭 I’m currently working in [Ensolvers]](https://www.linkedin.com/company/ensolvers)  
+- 🔭 I’m currently working in [Ensolvers](https://www.linkedin.com/company/ensolvers)  
   
 
 - 🌱 I’m currently learning React, K8s and AWS  
